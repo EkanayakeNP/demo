@@ -14,6 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class AlienController {
 
+	//commented by np
 	@Autowired
 	private TestService testService;
 
